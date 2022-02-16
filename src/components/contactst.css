@@ -1,0 +1,12 @@
+.contact {
+    margin-left: 250px;
+    width: 100%;
+}
+.form{
+    display: table-caption;
+
+}
+.form .buton{
+    float: right;
+    justify-content: right;
+}

@@ -1,0 +1,14 @@
+.footer{
+    background-color: #ededed;
+    height: 40px;
+    width: 100%;
+    color: #515356;
+
+}
+.right{
+    float: right;
+}
+.left{
+    float: left;
+    margin-left: 250px;
+}
